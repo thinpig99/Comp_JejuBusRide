@@ -12,7 +12,7 @@ I want to study regression model to solve the problem in real world. I found thi
 - And i use weather data from KMA;Korea Meteorological Administration.
 
 # Evaluation
-- Final Score : 
-- Final Rank : 
-- Final Rank Ratio : 
+- Final Score : 2.3668(RMSE)
+- Final Rank : 65
+- Final Rank Ratio : 21.5%
 
